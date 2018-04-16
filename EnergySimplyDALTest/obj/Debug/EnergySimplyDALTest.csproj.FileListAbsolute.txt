@@ -1,0 +1,15 @@
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\bin\Debug\EnergySimplyDALTest.exe.config
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\bin\Debug\EnergySimplyDALTest.exe
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\bin\Debug\EnergySimplyDALTest.pdb
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\bin\Debug\EnergySimplyDAL.dll
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\bin\Debug\EntityFramework.dll
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\bin\Debug\EnergySimplyDAL.pdb
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\bin\Debug\EnergySimplyDAL.dll.config
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\bin\Debug\EntityFramework.xml
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\obj\Debug\EnergySimplyDALTest.csprojResolveAssemblyReference.cache
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\obj\Debug\EnergySimplyDALTest.csproj.CoreCompileInputs.cache
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\obj\Debug\EnergySimplyDALTest.csproj.CopyComplete
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\obj\Debug\EnergySimplyDALTest.exe
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDALTest\obj\Debug\EnergySimplyDALTest.pdb

@@ -1,0 +1,17 @@
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\bin\Release\EnergySimplyDAL.dll.config
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\bin\Release\EnergySimplyDAL.dll
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\bin\Release\EnergySimplyDAL.pdb
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\bin\Release\EntityFramework.dll
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\bin\Release\EntityFramework.SqlServer.dll
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\bin\Release\EntityFramework.xml
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\bin\Release\EntityFramework.SqlServer.xml
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\obj\Release\EnergySimplyDAL.csprojResolveAssemblyReference.cache
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\obj\Release\EnergySimplyDAL.Migrations.InitialCreate.resources
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\obj\Release\EnergySimplyDAL.Migrations.Identities.resources
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\obj\Release\EnergySimplyDAL.Migrations.Identities2.resources
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\obj\Release\EnergySimplyDAL.csproj.GenerateResource.cache
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\obj\Release\EnergySimplyDAL.csproj.CoreCompileInputs.cache
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\obj\Release\EnergySimplyDAL.csproj.CopyComplete
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\obj\Release\EnergySimplyDAL.dll
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\obj\Release\EnergySimplyDAL.pdb
+D:\dev\projects\vs_stuff\EnergySimply\EnergySimplyDAL\obj\Release\EnergySimplyDAL.Migrations.CustEmailRequired.resources

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Energy Simply - Customer Plans"  description="Developer Challenge A">
+    <siteMapNode url="~/ListCustomersAndPlans.aspx" title="Customer Plans" description="Current customers and their associated plan." />
+    <siteMapNode url="~/AddCustomer.aspx" title="Add Customer" description="Add a Customer" />
+    <siteMapNode url="~/AddPlan.aspx" title="Add Plan" description="Add a new Plan" />
+  </siteMapNode>
+</siteMap>

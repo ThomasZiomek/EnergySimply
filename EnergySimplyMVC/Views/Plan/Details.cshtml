@@ -1,0 +1,42 @@
+﻿@model EnergySimplyDAL.Models.Plan
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Plan</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PlanName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PlanName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PlanFixedCost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PlanFixedCost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PlanVarCost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PlanVarCost)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PlanID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

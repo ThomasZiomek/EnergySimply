@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="EnergySimplyWebV1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\dev\\projects\\vs_stuff\\EnergySimply\\EnergySimplyWeb\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\dev\\projects\\vs_stuff\\EnergySimply\\EnergySimplyWeb\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="EnergySimplyConnection-Web.config Connection String" description="" value="data source=(LocalDb)\MSSQLLocalDB;initial catalog=EnergySimply;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\dev\\projects\\vs_stuff\\EnergySimply\\EnergySimplyWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EnergySimplyConnection']/@connectionString" />
+  </parameter>
+</parameters>
